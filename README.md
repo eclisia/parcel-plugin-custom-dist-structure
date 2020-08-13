@@ -15,6 +15,7 @@ npm i parcel-plugin-custom-dist-structure --save-dev
 ```
 
 ## :cloud: Usage
+## :test: Test
 
 After you've installed the plugin, you'll need to specify configuration for it in `package.json`.
 
